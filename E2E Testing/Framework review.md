@@ -1,0 +1,1 @@
+The framework that i will choose is testcafe because when you make a mistake or when there is an error in the code it point to the line where there is mistake so its easy to fix it unlike codeceptjs whereby you have to look for a mistake yourself
