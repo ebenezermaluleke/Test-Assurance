@@ -1,0 +1,38 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "Age": "18",
+      "Name": "Ebeneizer",
+      "Surname": "Maluleke",
+      "bankid": "1",
+      "BankAccount": 1234567891
+    },
+    {
+      "id": 2,
+      "Age": "18",
+      "Name": "Hloni",
+      "Surname": "Nkuna",
+      "bankid": "2",
+      "BankAccount": 2123456789
+    }
+  ],
+  "Bank": [
+    {
+      "id": 1,
+      "Name": "Scrum"
+    },
+    {
+      "id": 2,
+      "Name": "Iconic"
+    },
+    {
+      "id": 3,
+      "Name": "Minions"
+    },
+    {
+      "id": 4,
+      "Name": "Molewa"
+    }
+  ]
+}
